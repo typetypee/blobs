@@ -23,6 +23,5 @@
 "cyan-angry": "https://typetypee.github.io/blobs/angry-cyan-blob.png",
 "pink-blob": "https://typetypee.github.io/blobs/pink-blob.png",
 "pink-plane": "https://typetypee.github.io/blobs/pink-plane.png",
-""
 
 }
