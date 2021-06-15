@@ -1,4 +1,4 @@
-data = '{
+{
 "angry-blob": "https://typetypee.github.io/blobs/angry-blob.png",
 "pencil-blob": "https://typetypee.github.io/blobs/pencil-blob.png",
 "flying-blob": "https://typetypee.github.io/blobs/flying-guy.png",
@@ -24,4 +24,4 @@ data = '{
 "pink-blob": "https://typetypee.github.io/blobs/pink-blob.png",
 "pink-plane": "https://typetypee.github.io/blobs/pink-plane.png",
 
-}'
+}
